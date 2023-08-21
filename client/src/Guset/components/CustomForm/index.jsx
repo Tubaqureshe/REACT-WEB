@@ -14,7 +14,6 @@ export default function CustomForm() {
                     <span className="card-side" />
                     <div className="flip-card__inner">
                     <LoginForm />
-                        <Signupform />
                     </div>
                 </label>
             </div>
